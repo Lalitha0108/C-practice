@@ -9,3 +9,6 @@ int main(){
     return 0;
     
 }
+o/p :-
+enter the number 1
+toggeled number is 0
