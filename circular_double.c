@@ -143,3 +143,10 @@ int main(){
     printList2(&head,&tail);
 
 }
+O/P:-
+After adding elements correct order : 
+40 -> 30 -> 20 -> 50 -> 60 -> 
+After adding elements correct order : 
+30 -> 50 -> 
+After adding elements reversed order : 
+50 -> 30 ->
