@@ -9,7 +9,3 @@ int main(){
 
     return 0;
 }
-O/P:-
-lalli
-logesh
-kiran

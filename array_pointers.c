@@ -14,9 +14,3 @@ int main(){
 
 
 }
-O/P:-
-value of var 0x7ffe6113f1f0 : 10 
-
- value of var 0x7ffe6113f1f4 : 20 
-
- value of var 0x7ffe6113f1f8 : 30
